@@ -1,0 +1,17 @@
+#container{
+	background: #e8e8e899;
+}
+.logo{
+	margin-top: 20px;
+	margin-left: 15%;
+}
+
+.name{
+	width: 130px;
+	height: 40px;
+	font-weight: bold;
+	margin-top: 190px;
+	margin-left: -129px;
+	position: absolute;
+	box-shadow: -1px 1px 21px 0px rgb(143, 142, 130); /*sombra a los botones*/
+}
